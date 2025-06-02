@@ -71,4 +71,4 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
-git clone <YOUR_GIT_URL>
+git clone <https://lovable.dev/projects/f71ae60b-b2ec-4626-8e1f-733f63a205b9>
