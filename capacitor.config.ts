@@ -10,7 +10,9 @@ const config: CapacitorConfig = {
     cleartext: true
   },
   plugins: {
-    // Add plugin configurations here
+    SplashScreen: {
+      launchShowDuration: 0
+    }
   }
 };
 
